@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Temu Asih",
+      "alamat": "Gegunung",
+      "id": 1
+    },
+    {
+      "name": "Syaeful Annas",
+      "alamat": "Cirebon Timur",
+      "id":2
+
+    },
+    {
+      "name": "Sigit Saputra",
+      "alamat": "Watubelah",
+      "id":3
+
+    },
+    {
+      "name": "Viona Annas",
+      "alamat": "Kaligawe",
+      "id":4
+    },
+    {
+      "name": "Ummar Rahman",
+      "alamat": "Setu",
+      "id":5
+    }
+  ]
+}
